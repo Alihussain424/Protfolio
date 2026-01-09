@@ -79,7 +79,7 @@ const actualProjects = [
         description: "Digital signal processing algorithms for noise reduction in audio signals.",
         category: "matlab",
         technologies: ["MATLAB", "DSP", "Algorithms"],
-        image: "Matlab.jpg",
+        image: "Matlab.JPG",
         github: "https://github.com/Alihussain424",
         demo: "#",
         date: "2024-01-10"
@@ -535,4 +535,5 @@ document.addEventListener('DOMContentLoaded', () => {
     
     // Initialize projects
     initializeProjects();
+
 });
