@@ -69,7 +69,7 @@ const actualProjects = [
         category: "web",
         technologies: ["HTML", "CSS", "JavaScript", "Responsive"],
         image: "gym.jpg",
-        github: "https://github.com/Alihussain424",
+        github: " https://alihussain424.github.io/Gym-ai-intigrative-website/",
         demo: "#",
         date: "2024-01-20"
     },
@@ -537,3 +537,4 @@ document.addEventListener('DOMContentLoaded', () => {
     initializeProjects();
 
 });
+
